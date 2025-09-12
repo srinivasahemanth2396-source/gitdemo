@@ -1,0 +1,5 @@
+git config --global user.name"srinivasahemanth2396-source"
+git config --global user.email"srinivasahemanth2396@gmail.com"
+git config --global color.ui auto
+git init
+git remote add origin https://github.com/srinivasahemanth2396-source/gitdemo.git
